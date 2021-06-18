@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JS, PY, JAVA 
 - 💞️ I’m looking to collaborate on noone
-- 📫 How to reach me Friswik#0622
+- 📫 How to reach me Friswik#2107
 
 <!---
 Friswik/Friswik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
