@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Friswik
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JS, PY, JAVA 
 - 💞️ I’m looking to collaborate on noone
 - 📫 How to reach me Friswik#2107
 
